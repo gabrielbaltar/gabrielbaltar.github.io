@@ -141,6 +141,10 @@
     margin-left: 10px;
   }
 
+  .faculdade-lista {
+    flex-direction: column;
+  }
+
   .formacao-extra {
     margin-left: 30px;
   }
